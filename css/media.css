@@ -1,0 +1,15 @@
+@media all and (min-width: 1150px) {
+	.red:hover {
+      background-color: #00897b;
+      border-color: transparent;
+	}
+	.green:hover {
+	  background-color: transparent;
+	  border: 2px solid;	
+
+	}
+.nav-link:hover {
+	background-color: black;
+	color: white; 
+	}
+}
